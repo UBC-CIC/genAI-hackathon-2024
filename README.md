@@ -1,1 +1,1 @@
-# genAI-hackathon-2024
+# CIC genAI Hackathon 2024
