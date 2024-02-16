@@ -15,6 +15,8 @@ Generative AI refers to a type of artificial intelligence designed to generate n
 * [Foundations of Prompt Engineering](https://explore.skillbuilder.aws/learn/course/external/view/elearning/17763/foundations-of-prompt-engineering)
 * [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 * [Introduction to LangChain](https://python.langchain.com/docs/get_started/introduction) - LangChain is a framework for developing applications powered by language models
+* [Serverless LLM apps with Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock/) - (Course) Enroll for free. Learn how to deploy a large language model-based application into production using serverless technology.
+* [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) - (Course) Enroll for free. Excellent intro course. Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
 
 ---
 ### Data (extending the LLM)
