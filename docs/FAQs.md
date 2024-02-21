@@ -10,3 +10,5 @@ Keep this in mind when working with AWS samples, as you might need to change the
 ### How can I debug or see what’s going on with the resources I created?
 You can use [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) to check all the logs that come from different AWS services. When you’re stuck going to CloudWatch and inspecting the logs helps you a lot
 
+# Common Mistakes
+
