@@ -46,6 +46,11 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 
 ---
 
+### Examples
+
+A sample prototype:
+---
+
 ### AWS Basics
 
 * [AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
