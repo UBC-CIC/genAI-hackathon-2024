@@ -59,9 +59,14 @@ Retrieval-augmented generation (RAG) for large language models (LLMs) aims to im
 
 ---
 
-### Examples
+### Agents for Bedrock
 
-## A sample prototype:
+Enable generative AI applications to execute multistep tasks across company systems and data sources
+
+- [User Guide](https://docs.aws.amazon.com/bedrock/latest/userguide/agents.html)
+- [Demo Video - Agents for Amazon Bedrock ](https://www.youtube.com/watch?v=UcehCSSOMQA)
+- [Amazon Bedrock Agents Quickstart](https://github.com/build-on-aws/amazon-bedrock-agents-quickstart) - Functional code example
+- [Build a foundation model (FM) powered customer service bot with agents for Amazon Bedrock](https://github.com/aws-samples/agentsforbedrock-retailagent)
 
 ### AWS Basics
 
