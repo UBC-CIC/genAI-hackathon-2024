@@ -87,7 +87,7 @@ This chatbot uses the ICBC website information as its knowledge base to answer q
 ### Course Textbook Chatbot
 - Link: [https://github.com/UBC-CIC/your-valentine-ta](https://github.com/UBC-CIC/your-valentine-ta)
 
-This chatbot generates responses to students’ prompts about content in a course textbook. The chatbot was created using Amazon Bedrock to generate responses to prompts and Streamlit for the user interface. This chatbot used a Knowledge Base to implement Retrieval-Augmented Generation (RAG) to generate responses based on information retrieved from a specified data source, which in this case was a course textbook. 
+This chatbot generates responses to students’ prompts about content in a course textbook. The chatbot was created using Amazon Bedrock to generate responses to prompts and Streamlit for the user interface. This chatbot also uses a Knowledge Base to implement Retrieval-Augmented Generation (RAG) to generate responses based on information retrieved from a specified data source, which in this case was a course textbook PDF. 
 
 
 
