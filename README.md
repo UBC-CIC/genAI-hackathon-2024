@@ -76,6 +76,16 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [AWS Technical Essentials](https://assorted-market-2d4.notion.site/AWS-Technical-Essentials-612efb1dde3c4ac1a8a68969b7fd8d5b)
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 
+
+## Examples
+
+### ICBC Chatbot
+- Link: [https://github.com/UBC-CIC/hackathon-icbc-chatbot](https://github.com/UBC-CIC/hackathon-icbc-chatbot)
+
+This chatbot uses the ICBC website information as its knowledge base to answer questions that are asked by the users who want to learn more about driving licenses, insurance, and anything ICBC-related. This website can be hosted on an EC2 instance. This chatbot is based on the [Flask Framework](https://flask.palletsprojects.com/) that provides a light-weight python-based web framework.
+
+
+
 ## FAQs
 
 For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
