@@ -12,3 +12,7 @@ You can use [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) to check all th
 
 # Common Mistakes
 
+### Extra Spaces
+
+Having an extra space in AWS command parameters can lead to unexpected issues in your AWS services, which may be difficult/time-consuming to debug. AWS commands rely on having precise syntax, so even just one extra space can cause misinterpretation. To avoid headaches, always double check all the values and properties that you pass into AWS commands and methods. This way, you cam eliminate the time you spend debugging the issues caused by it.
+
