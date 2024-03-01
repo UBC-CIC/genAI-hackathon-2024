@@ -92,17 +92,22 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 
 
-## Examples
+## Examples / Ideas Link
+
+### Amazon Bedrock Series
+
+- GitHub Link: [RAG-Bedrock-Titan](https://github.com/janakiramm/rag-bedrock-titan)
+- Video: [Implementing RAG with Amazon Bedrock and Amazon Titan - Part 1](https://www.youtube.com/watch?v=RIw_Ivvrp8g)
+
+From the creator: "In this tutorial, we will build a chatbot based on the Retrieval Augmented Context generation technique. Amazon OpenSearch Serverless is used as the vector database, Amazon Titan is used for generating text embeddings and as an LLM, and Amazon Bedrock API is used for invoking the Titan model."
 
 ### ICBC Chatbot
-- Link: [https://github.com/UBC-CIC/hackathon-icbc-chatbot](https://github.com/UBC-CIC/hackathon-icbc-chatbot)
 
-This chatbot uses the ICBC website information as its knowledge base to answer questions that are asked by the users who want to learn more about driving licenses, insurance, and anything ICBC-related. This website can be hosted on an EC2 instance. This chatbot is based on the [Flask Framework](https://flask.palletsprojects.com/) that provides a light-weight python-based web framework.
+A chatbot that uses the ICBC website information as its knowledge base to answer questions that are asked by the users who want to learn more about driving licenses, insurance, and anything ICBC-related. This website can be hosted on an EC2 instance. This chatbot can be based on the [Flask Framework](https://flask.palletsprojects.com/), which provides a light-weight python-based web framework. 
 
 ### Course Textbook Chatbot
-- Link: [https://github.com/UBC-CIC/your-valentine-ta](https://github.com/UBC-CIC/your-valentine-ta)
 
-This chatbot generates responses to students’ prompts about content in a course textbook. The chatbot was created using Amazon Bedrock to generate responses to prompts and Streamlit for the user interface. This chatbot also uses a Knowledge Base to implement Retrieval-Augmented Generation (RAG) to generate responses based on information retrieved from a specified data source, which in this case was a course textbook PDF. 
+A chatbot generates responses to students’ prompts about content in a course textbook. This chatbot can be created using Amazon Bedrock to generate responses to prompts and Streamlit for the user interface. A Knowledge Base can also be used to implement Retrieval-Augmented Generation (RAG) to generate responses based on information retrieved from a specified data source, such as a course textbook PDF. 
 
 
 
