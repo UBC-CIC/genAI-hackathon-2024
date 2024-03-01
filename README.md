@@ -27,6 +27,12 @@ can create new examples or samples within a given domain, such as images, text, 
 - A water bottle
 - Laptop and charging cables
 
+### Venue
+
+Sauder Learning Labs: 6326 Agricultural Road, Vancouver, BC V6T 1Z2
+
+It is behind the Sauder building and sandwiched between Triple O’s and the Leonard S. Klinck building. Look out for a sign that says **David Lam Learning Centre**!
+
 ### Rules
 
 * No plagiarism
