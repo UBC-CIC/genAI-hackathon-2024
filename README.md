@@ -92,7 +92,7 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 
 
-## Examples / Ideas Link
+## Examples / Ideas
 
 ### Amazon Bedrock Series
 
