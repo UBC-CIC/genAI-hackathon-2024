@@ -47,8 +47,6 @@ can create new examples or samples within a given domain, such as images, text, 
 
 For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
 
----
-
 ## Getting Started 🎧
 
 [Getting Started With AWS Workshop Studio](https://docs.google.com/document/d/1Xst57-bCp3enGVE6tNUdMyf_JzRMoJjjGsm8OS5sznE/edit#heading=h.l5zr9hk1rgza)
