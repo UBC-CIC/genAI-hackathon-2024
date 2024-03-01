@@ -21,6 +21,12 @@ can create new examples or samples within a given domain, such as images, text, 
 * 7:45PM: Closing ceremony
 * 8:00PM: End of Hackathon!
 
+### Item Checklist
+- UBC Card
+- Adapters
+- A water bottle
+- Laptop and charging cables
+
 ### Rules
 
 * No plagiarism
