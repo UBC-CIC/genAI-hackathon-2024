@@ -31,8 +31,9 @@ can create new examples or samples within a given domain, such as images, text, 
 ### Submission Guidelines
 
 - Total 5 minutes (3 min presentation, 2 min Q&A)
-- **REQUIRED**: To judge the technical details of your solution, you must nclude an architecture diagram (try out draw.io, or any other tool)
-- We also recommend talking about your motivation for choosing this project, and its potential impact
+- We recommend talking about your motivation for choosing this project, and its potential impact.
+- **REQUIRED**: To judge the technical details of your solution, you must nclude an architecture diagram (try out draw.io, or any other tool).
+- **DEADLINE**: There is a hard deadline to submit the link to your public GitHub repository in your Discord team channel by 6:00PM. Late submissions will lead to disqualification.
 
 ### Criteria
 
