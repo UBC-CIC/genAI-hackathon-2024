@@ -7,7 +7,7 @@ Cloud Computing is the practice of using a network of remote servers hosted on t
 Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that 
 can create new examples or samples within a given domain, such as images, text, music, or other types of data.
 
-## Event Overview
+## Event Overview 😄
 ### General Schedule
 
 * 8:00AM: Check in + Breakfast
@@ -20,6 +20,34 @@ can create new examples or samples within a given domain, such as images, text, 
 * 6:10PM: Judging starts
 * 7:45PM: Closing ceremony
 * 8:00PM: End of Hackathon!
+
+### Rules
+
+* No plagiarism
+* Code must be on GitHub and open sourced
+* Any private datasets used must not contain personally identifiable information
+* Project design and development must start at the hackathon’s beginning, but preprocessed and structured data is allowed
+
+### Submission Guidelines
+
+- Total 5 minutes (3 min presentation, 2 min Q&A)
+- **REQUIRED**: To judge the technical details of your solution, you must nclude an architecture diagram (try out draw.io, or any other tool)
+- We also recommend talking about your motivation for choosing this project, and its potential impact
+
+### Criteria
+
+- Creativity and Originality: How innovative and unique is the generated solution? 
+- Technical Implementation: The complexity and effectiveness of the AI model and its integration with the user interface. 
+- User Interaction: The intuitiveness and effectiveness of the user interface in influencing the generated solution. 
+- Cloud deployment: The choices and efficient deployment of cloud services for their solution.  
+- Presentation: The clarity, coherence, and persuasiveness of the final presentation.
+
+  
+### FAQs
+
+For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
+
+---
 
 ## Getting Started 🎧
 
@@ -92,7 +120,7 @@ Enable generative AI applications to execute multistep tasks across company syst
 - [Architecting on AWS - Online Course Supplement](https://explore.skillbuilder.aws/learn/course/external/view/elearning/8319/architecting-on-aws-online-course-supplement)
 
 
-## Examples / Ideas
+## Examples / Ideas 🤔
 
 ### Amazon Bedrock Series
 
@@ -108,9 +136,3 @@ A chatbot that uses the ICBC website information as its knowledge base to answer
 ### Course Textbook Chatbot
 
 A chatbot generates responses to students’ prompts about content in a course textbook. This chatbot can be created using Amazon Bedrock to generate responses to prompts and Streamlit for the user interface. A Knowledge Base can also be used to implement Retrieval-Augmented Generation (RAG) to generate responses based on information retrieved from a specified data source, such as a course textbook PDF. 
-
-
-
-## FAQs
-
-For frequently asked questions and tips, please visit [FAQs](docs/FAQs.md)
