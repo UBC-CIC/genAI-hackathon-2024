@@ -4,7 +4,22 @@
 
 **About Cloud Computing and Generative AI** <br>
 Cloud Computing is the practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer. It allows you to focus on developing, rather than having to worry about providing all the hardware. One of the biggest cloud service providers out there is AWS. <br>
-Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that can create new examples or samples within a given domain, such as images, text, music, or other types of data.
+Generative AI refers to a type of artificial intelligence designed to generate new content, data, or outputs that are not explicitly programmed in advance. It involves models that 
+can create new examples or samples within a given domain, such as images, text, music, or other types of data.
+
+## Event Overview
+### General Schedule
+
+* 8:00AM: Check in + Breakfast
+* 8:30AM: Introduction
+* 8:40AM: Icebreaker
+* 9:10AM: Hacking commences
+* 12:00PM: Lunch (provided) 
+* 5:00PM: Dinner (provided)
+* 6:00PM: Hacking ends
+* 6:10PM: Judging starts
+* 7:45PM: Closing ceremony
+* 8:00PM: End of Hackathon!
 
 ## Getting Started 🎧
 
